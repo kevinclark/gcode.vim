@@ -1,3 +1,1 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=4910
-
-A simple set of syntax highlighting rules for G-Code files for CNC controls.
+Rework of https://github.com/vim-scripts/nc.vim--Eno to be compatible with Marlin GCODE used for 3D printing.
